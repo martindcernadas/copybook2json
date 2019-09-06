@@ -9,5 +9,5 @@ Transform COPYBOOK (COBOL) to JSON.
 
 ## Instructions
 1. Install as "npm install"
-2. Execute as "node src/indes.js"
+2. Execute as "node src/index.js"
 
